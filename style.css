@@ -25,6 +25,8 @@ body {
   transform-style: preserve-3d;
   min-height: 80vh;
   width: 35rem;
+  transition: all 0.95s ease-out;
+
   /* background: lightcoral; */
   border-radius: 30px;
   padding: 0rem 5rem;
